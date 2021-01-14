@@ -56,7 +56,7 @@
         <!-- 原始2.9.5 --> 
         <fasterxml.jackson.version>2.9.10.4</fasterxml.jackson.version>
         <codehaus.jackson.version>1.9.13</codehaus.jackson.version>
-        <poi.version>3.14</poi.version>
+        <poi.version>4.1.2</poi.version>
         <itextpdf.version>5.5.13</itextpdf.version>
     </properties>
 
