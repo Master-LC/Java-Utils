@@ -54,7 +54,7 @@
         <disconf.version>2.6.36</disconf.version>
         <slf4j.version>1.7.25</slf4j.version>
         <!-- 原始2.9.5 --> 
-        <fasterxml.jackson.version>2.9.10.4</fasterxml.jackson.version>
+        <fasterxml.jackson.version>2.12.1</fasterxml.jackson.version>
         <codehaus.jackson.version>1.9.13</codehaus.jackson.version>
         <poi.version>3.14</poi.version>
         <itextpdf.version>5.5.13</itextpdf.version>
