@@ -48,7 +48,7 @@
         <mysql.version>5.1.46</mysql.version>
         <druid.version>1.0.29</druid.version>
         <spring-redis>2.0.3.RELEASE</spring-redis>
-        <dubbo-version>2.6.2</dubbo-version>
+        <dubbo-version>2.6.9</dubbo-version>
         <zkclient.version>0.10</zkclient.version>
         <zookeeper.version>3.4.11</zookeeper.version>
         <disconf.version>2.6.36</disconf.version>
